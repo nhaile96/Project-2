@@ -21,10 +21,13 @@ When first recieving the data we received them as two large csv files of atleast
 # 1st Analysis Question - Over the past year which investment type currently performs best for Mutual Funds and ETFS?
 
 -ETF's
+
 ![alt text](https://github.com/nhaile96/Project-2/blob/main/alain-analysis/q1_ytd_etf_top_inv.jpg?raw=true)
 
 -Mutual Funds
+
 ![alt text](https://github.com/nhaile96/Project-2/blob/main/alain-analysis/q1_ytd_mf_top_inv.jpg?raw=true)
+
 
 
 ![alt text](https://github.com/nhaile96/Project-2/blob/Alain/visualizations/q1_etf_viz_inv_strat.png?raw=true)
