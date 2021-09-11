@@ -15,6 +15,7 @@ Mutual Funds give investors the opportuinty to allow reputible investors to mana
 # ETL Process
 When first recieving the data we received them as two large csv files of atleast 1000 rows, 100 columns in one table, and the other with atleast 20,000 rows.  Since our analysis was focused on the cream of the crop, we strategized to pull out those key columns that clearly show the results of each over the past 10 years and their investment strategies.  We also minimized the rows to the top 100 of each based off of their mean annual return for the past 10 years.  We chose the mean annual return to be the foundation of the filter because it gives us a evenly dispersed understanding of their performance over time. Then we exported those two clean csv files.  Then we created a database view of the tables to import into pgAdmin since it is easy to migrate, call, and manipulate the data from there instead of a csv.  From there we were able to use SQLAlchemy to pull in the data to jupyter notebook for each one of our analysis's.
 
+![alt text](https://github.com/nhaile96/Project-2/blob/main/database-diagram.png?raw=true)
 
 
 # 1st Analysis Question - Over the past year which investment type currently performs best for Mutual Funds and ETFS?
@@ -23,9 +24,8 @@ When first recieving the data we received them as two large csv files of atleast
 ![alt text](https://github.com/nhaile96/Project-2/blob/main/alain-analysis/q1_ytd_mf_top_inv.jpg?raw=true)
 
 
-
-!(https://github.com/nhaile96/Project-2/blob/main/alain-analysis/q1_etf_viz_inv_strat.png?raw=true)
-!(https://github.com/nhaile96/Project-2/blob/main/alain-analysis/q1_mf_viz_inv_strat.png?raw=true)
+![alt text](https://github.com/nhaile96/Project-2/blob/Alain/visualizations/q1_etf_viz_inv_strat.png?raw=true)
+![alt text](https://github.com/nhaile96/Project-2/blob/Alain/visualizations/q1_mf_viz_inv_strat.png?raw=true)
 
 
 
