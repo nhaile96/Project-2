@@ -40,7 +40,10 @@ When first recieving the data we received them as two large csv files of atleast
 
 # 3rd Analysis Question -  What are the Top 10 holdings of the best ETFs and Mutual Funds?
 
+-ETF's Top 10 Holdings
 ![alt text](https://github.com/nhaile96/Project-2/blob/main/d'aurelia-analysis/etf_top10_holdings.jpg?raw=true)
+
+-Mutual Fund Top 10 Holdings
 ![alt text](https://github.com/nhaile96/Project-2/blob/main/d'aurelia-analysis/mf_top10_holdings.jpg?raw=true)
 
 
@@ -54,3 +57,8 @@ When first recieving the data we received them as two large csv files of atleast
 ![alt text](https://github.com/nhaile96/Project-2/blob/main/visualization-tables/etf_top_inv.jpg?raw=true)
 ![alt text](https://github.com/nhaile96/Project-2/blob/main/visualization-tables/mf_top_inv.jpg?raw=true)
 
+
+
+# Summary
+
+To summarize as you can see the most profit comes from Mutual Funds and the most profitable strategy is investing in growth companies that are on the rise.  This is why Mutual Funds are very lucrative to the upper class especially over a long period of time.  The question an investor should ask themselves is what type and at what level they want to invest at to determine if the ETF or mutual fund route is best for them.  
